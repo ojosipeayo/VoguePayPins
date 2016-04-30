@@ -17,7 +17,7 @@ Voguepay pin dispenser allows you to accept payment on your digital contents via
 
 ## Description ##
 
-> Before you start accepting payment on your site, login to your [Voguepay Account](https://voguepay.com/) go to <strong>Menu</strong>, <strong>Business Solutions</strong> then <strong>Product Management</strong>, then set <strong>Create product category</strong>  submit. finally copy <strong>Product code</strong>.to use as shortcode on this plugin <strong>It is very important that you do this before you start using this plugin.</strong>
+> Before you start accepting payment on your site, login to your [Voguepay Account](https://voguepay.com/) go to <strong>Menu</strong>, <strong>Business Solutions</strong> then <strong>Product Management</strong>, then <strong>Create product category</strong>  submit. finally copy <strong>Product code</strong>.to use as shortcode on this plugin <strong>It is very important that you do this before you start using this plugin.</strong>
 
 A Simple wordpress payment plugin for selling pins e.g Recharge Cards, Jamb Scratch Cards e.t.c.
 
