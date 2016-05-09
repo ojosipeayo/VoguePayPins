@@ -1,0 +1,1 @@
+Its is a plugin  that allows Voguepay merchant to accept payment on listed pin products via Visa Card, Master Card and Verve Card.Pin product like scratch cards through insert short codes to word press blogs/articles. Products are thereafter dispensed to buyer emails.
