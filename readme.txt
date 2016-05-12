@@ -8,12 +8,10 @@ Stable tag: 4.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Pin Dispenser for Voguepay allows you sell dispensable Product such as card pins and accept payment on your Wordpress blog,page,article  via Visa Card, MasterCard and Verve Card.
-Product are delivered through emails.You get notified by Voguepay on each sales and when running out of stock. 
+Vogue Pin Dispenser allows you sell dispensable Product such as card pins and accept payment on your Wordpress blog,page,article  via Visa Card, MasterCard and Verve Card.
+Product are delivered through emails.You get manage store and get notified by Voguepay on each sales and when running out of stock. 
 
 Manage product inventory on Voguepay .[Merchant Product](https://voguepay.com/merchant_product)
-
-
 
 ## Description ##
 
