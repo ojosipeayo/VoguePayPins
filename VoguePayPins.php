@@ -1,17 +1,16 @@
 <?php 
 /**
- * @package Vogue Pay PIN Dispenser
+ * @package Vogue PIN Dispenser
  */
 /*
-Plugin Name: Vogue Pay PIN Dispenser
-Plugin URI: https://voguepay.com/wordpress
-Description: The Vogue Pay PIN Dispenser allows you integrate a PIN Dispensing system into your wordpress while pins are loaded from your voguepay account.Get card payment via mastercard,visa.
+Plugin Name: Vogue PIN Dispenser
+Plugin URI: http://http://compisoftng.com/voguepay-woocommerce-payment-gateway
+Description: Vogue PIN Dispenser allows you integrate a PIN Dispensing system into your wordpress while pins are loaded from your voguepay account.Get card payment via mastercard,visa.
 Author: Ojosipe Ayomikun
-Author URI: http://voguepay.com
+Author URI: http://compisoftng.com/me
 License: GPLv3 or later
 http://www.gnu.org/licenses/gpl-3.0.txt
 */
-
 
 if (!class_exists("VoguePayPins")) {
 
